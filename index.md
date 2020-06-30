@@ -13,3 +13,5 @@ Aktueller Freund ist Max Medina. Ihren Kaffee trinkt sie gerne bei Lukes.
 * Pizza essen
 * mit Souki blödeln
 
+Beliebtester Spruch:
+> Kafffeeeeee
