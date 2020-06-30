@@ -16,6 +16,6 @@ Aktueller Freund ist Max Medina. Ihren Kaffee trinkt sie gerne bei Lukes.
 Beliebtester Spruch:
 > Kafffeeeeee
 
-<img src="https://upload.wikimedia.org/wikipedia/en/c/c6/LorelaiGilmore.jpg "/>
+<img src="https://upload.wikimedia.org/wikipedia/en/c/c6/LorelaiGilmore.jpg"/>
 
 
